@@ -1,2 +1,3 @@
 # NRSexplorer
-IMOS National Reference Station explorer
+IMOS National Reference Station explorer.
+
